@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394411034239",
+    "project_id": "degree-148fe",
+    "storage_bucket": "degree-148fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394411034239:android:1ff213591999e78ff7214a",
+        "android_client_info": {
+          "package_name": "com.degree_creative_studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394411034239-g1n8c8729h1dnntjfr7otm7cc9a29en8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0vQ0ov8Mh11UL0cirIzFXaT41FvFX-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394411034239-g1n8c8729h1dnntjfr7otm7cc9a29en8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
